@@ -1,6 +1,6 @@
 # Scaphold contribution statics
 
-For personnel use, this repo is a storage of static file dedicated to Scaphold web application.
+For personnel use, this repo is a storage of static files dedicated to Scaphold web application contribution.
 
 
 *issues #1: submitting request in graphiql resets query and variable when result displays*
